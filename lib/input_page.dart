@@ -193,6 +193,8 @@
                       Text('this week',
                       style: TextStyle(
                         color: kPrimaryColor
+                            
+
                       ),
                       )
                     ]),
